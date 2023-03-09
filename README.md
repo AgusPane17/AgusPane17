@@ -1,4 +1,20 @@
-### Hi there 👋
+Hi there 👋
+
+My name is Agustin  😎
+
+My name is Agustín and I am a systems engineering student 💻. I also study to be a full stack developer with javascript 🖥
+
+I have knowledge in:
+
+🔴Java
+🟠Javascript
+🟡HTML and CSS
+🟢Python
+🔵Mysql
+🟣Git
+
+But I'm also still learning 🤓
+
 
 <!--
 **AgusPane17/AgusPane17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
