@@ -2,7 +2,7 @@ Hi there 👋
 
 My name is Agustin  😎
 
-My name is Agustín and I am a systems engineering student 💻. I also study to be a full stack developer with javascript 🖥
+I am a systems engineering student 💻. I also study to be a full stack developer with javascript 🖥
 
 I have knowledge in:
 
