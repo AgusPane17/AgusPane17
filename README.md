@@ -10,8 +10,8 @@ I have knowledge in:
 🟠Javascript
 🟡HTML and CSS
 🟢MongoDB
-🔵Mysql
-🟣Go
+🔵Go
+🟣Mysql
 
 But I'm also still learning 🤓
 
