@@ -9,9 +9,9 @@ I have knowledge in:
 🔴Java
 🟠Javascript
 🟡HTML and CSS
-🟢Python
+🟢MongoDB
 🔵Mysql
-🟣Git
+🟣Go
 
 But I'm also still learning 🤓
 
