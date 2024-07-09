@@ -10,7 +10,7 @@ I have knowledge in:
 🟠Javascript
 🟡HTML and CSS
 🟢MongoDB
-🔵Go
+🔵C#
 🟣Mysql
 
 But I'm also still learning 🤓
